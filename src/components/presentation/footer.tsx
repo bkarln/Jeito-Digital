@@ -6,23 +6,23 @@ const YEAR = new Date().getFullYear();
 const SOCIAL_MEDIA = [
   {
     icon: "fab fa-twitter",
-    link: "https://www.twitter.com/creativetim?ref=astrolaunch-ui",
+    link: "",
   },
   {
     icon: "fab fa-facebook-square",
-    link: "https://www.facebook.com/creativetim?ref=astrolaunch-ui",
+    link: "",
   },
   {
     icon: "fab fa-dribbble",
-    link: "https://www.dribbble.com/creativetim?ref=astrolaunch-ui",
+    link: "",
   },
   {
     icon: "fab fa-github",
-    link: "https://www.github.com/creativetimofficial?ref=astrolaunch-ui",
+    link: "",
   },
   {
     icon: "fab fa-discord",
-    link: "https://discord.com/invite/gxtg2rJa?ref=astrolaunch-ui",
+    link: "",
   },
 ];
 
@@ -37,7 +37,7 @@ const COMPANY = [
   },
   {
     name: "Github",
-    link: "https://github.com/creativetimofficial?ref=astrolaunch-ui",
+    link: "",
   },
   {
     name: "Free Products",

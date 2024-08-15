@@ -33,7 +33,7 @@ export default function Example() {
     <Fragment>
       <Accordion open={open === 1} icon={<Icon id={1} open={open} />}>
         <AccordionHeader onClick={() => handleOpen(1)}>
-          What is Jeito Digital React?
+          O?
         </AccordionHeader>
         <AccordionBody className="text-blue-gray-800">
           We&apos;re not always in the position that we want to be at.

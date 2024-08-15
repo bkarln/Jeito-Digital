@@ -342,7 +342,7 @@ export default function ComplexNavbar() {
             <i className="fab fa-discord text-lg leading-none" aria-hidden="true"></i>
           </Button>
         </a>
-        <a href="https://github.com/creativetimofficial/astro-launch-ui" target="_blank">
+        <a href="" target="_blank">
           <Button size="sm" color="dark" variant="text">
             <i className="fab fa-github text-xl leading-none" aria-hidden="true"></i>
           </Button>

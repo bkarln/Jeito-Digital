@@ -92,7 +92,7 @@ export function PricingSectionOne() {
                     </Typography>
                   </li>
                 </ul>
-                <a href="https://github.com/creativetimofficial/astro-launch-ui?ref=astroLaunch-UI-landing" target="_blank">
+                <a href="" target="_blank">
                   <Button
                     size="sm"
                     variant="gradient"

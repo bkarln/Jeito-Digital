@@ -59,10 +59,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/astro-launch-ui.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/creativetimofficial/astro-launch-ui/issues"
+    "url": ""
   },
   "homepage": "https://www.creative-tim.com/astro/launch-ui/"
 }
