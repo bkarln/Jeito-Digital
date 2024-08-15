@@ -26,7 +26,7 @@ export function DevPresentation() {
               Develop consistenly using Astro architecture principles
             </Typography>
             <Typography color="blue-gray" className="lg:pr-32">
-              Using AstroLaunch UI you get everything you need to start creating your fully functional and responsive Ecommerce website in days, not months.
+              Using Jeito Digital you get everything you need to start creating your fully functional and responsive Ecommerce website in days, not months.
             </Typography>
           </div>
           <img src="consistenly.png" alt="components" className="mx-auto hidden md:flex" />
