@@ -10,6 +10,6 @@ const isProd = process.env.NODE_ENV === "production";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react(), tailwind()],
-  site: "",
-  base: "/astro-launch-ui/",
+  site: "http://localhost:4321/",
+  base: "/",
 });
