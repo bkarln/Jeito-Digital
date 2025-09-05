@@ -62,7 +62,7 @@
     "url": ""
   },
   "bugs": {
-    "url": ""
+    "url": "http://localhost:4321/error"
   },
   "homepage": "https://www.creative-tim.com/astro/launch-ui/"
 }
